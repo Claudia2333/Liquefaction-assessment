@@ -1,4 +1,4 @@
-The file with the .py extension can be run using Python. 
+The file with the .py extension can be run using Python 3.9.6. 
 The CC method.py utilizes the Chinese Code for the Seismic Design of Buildings, while the NC method.py utilizes the improved simplified procedure for liquefaction assessment proposed by the National Center for Earthquake Engineering Research.
 The required input files include data of the soil layers, parameters and groundwater table depth as an example.
 The file shui.xlsx contains the coordinates of the site and its corresponding groundwater table depth.
